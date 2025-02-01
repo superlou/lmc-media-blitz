@@ -2823,6 +2823,12 @@
 		(uuid "1b006ac0-befc-4562-a159-306fb48466a2")
 	)
 	(junction
+		(at 125.73 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "228c6518-d0f3-463b-b6cf-cfb7b95fd112")
+	)
+	(junction
 		(at 226.06 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2905,6 +2911,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7be56558-0db6-46a0-bf40-9e090ad4c909")
+	)
+	(junction
+		(at 88.9 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c9bd6be-2c9f-4d2a-8373-836541976846")
 	)
 	(junction
 		(at 204.47 140.97)
@@ -3030,7 +3042,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 27.94) (xy 130.81 27.94)
+			(xy 124.46 27.94) (xy 125.73 27.94)
 		)
 		(stroke
 			(width 0)
@@ -3190,6 +3202,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 25.4) (xy 88.9 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c5ee883-5546-4985-b4c5-291cc42143ac")
+	)
+	(wire
+		(pts
 			(xy 115.57 113.03) (xy 115.57 110.49)
 		)
 		(stroke
@@ -3217,6 +3239,16 @@
 			(type default)
 		)
 		(uuid "35b3d40b-282e-4c2a-9b01-735ff7d6f14d")
+	)
+	(wire
+		(pts
+			(xy 88.9 27.94) (xy 93.98 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3687a69c-3432-4edd-a196-08e3232199c7")
 	)
 	(wire
 		(pts
@@ -3457,6 +3489,16 @@
 			(type default)
 		)
 		(uuid "69bdac9a-bd14-44ce-867a-40aaf224acf0")
+	)
+	(wire
+		(pts
+			(xy 125.73 27.94) (xy 130.81 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69e0a504-a949-458c-a936-395d0f9d3b05")
 	)
 	(wire
 		(pts
@@ -3850,6 +3892,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 25.4) (xy 125.73 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c754e2f2-6480-4dca-9d68-7fcf97304e56")
+	)
+	(wire
+		(pts
 			(xy 195.58 144.78) (xy 204.47 144.78)
 		)
 		(stroke
@@ -4120,7 +4172,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 27.94) (xy 93.98 27.94)
+			(xy 83.82 27.94) (xy 88.9 27.94)
 		)
 		(stroke
 			(width 0)
@@ -4601,7 +4653,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "178170e6-781d-4b8f-9f02-bf05e5a8bb0d")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 22.606 49.53 0)
 			(effects
 				(font
@@ -4653,7 +4705,7 @@
 		(instances
 			(project "lmc_media_blitz"
 				(path "/b87eb037-3127-4116-a225-5eb939725614"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -5385,6 +5437,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 88.9 25.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e630879-b15e-4593-a4fe-f20c7d8642c0")
+		(property "Reference" "TP3"
+			(at 88.9 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 90.1699 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 88.9 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 88.9 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 88.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a6b8e38-cb29-43e2-93ae-5bb71d74fcf8")
+		)
+		(instances
+			(project "lmc_media_blitz"
+				(path "/b87eb037-3127-4116-a225-5eb939725614"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 36.83 35.56 180)
 		(unit 1)
@@ -5579,7 +5698,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5b9fcf66-6f87-495f-abfc-f493bc73408c")
-		(property "Reference" "J1"
+		(property "Reference" "J3"
 			(at 33.02 99.0599 0)
 			(effects
 				(font
@@ -5666,7 +5785,7 @@
 		(instances
 			(project ""
 				(path "/b87eb037-3127-4116-a225-5eb939725614"
-					(reference "J1")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -5779,7 +5898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68b86b7e-0180-4cad-bad1-1e15b8f2415c")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 22.606 21.59 0)
 			(effects
 				(font
@@ -5831,7 +5950,7 @@
 		(instances
 			(project ""
 				(path "/b87eb037-3127-4116-a225-5eb939725614"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -6380,6 +6499,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 104.14 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92e27d1b-42d4-4b39-9d75-22fa06b79cb8")
+		(property "Reference" "C6"
+			(at 107.95 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF"
+			(at 107.95 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 105.1052 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 104.14 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 104.14 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "CC0603KRX7R9BB103"
+			(at 104.14 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 107.95 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "d8890446-2e16-49c7-9f1b-eea5b776a5f4")
+		)
+		(pin "2"
+			(uuid "4667eb8a-c2ac-4306-8541-bdd28a932511")
+		)
+		(instances
+			(project "lmc_media_blitz"
+				(path "/b87eb037-3127-4116-a225-5eb939725614"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+BATT")
 		(at 33.02 29.21 0)
 		(unit 1)
@@ -6715,7 +6922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 92.4052 119.38 0)
 			(effects
 				(font
@@ -6742,7 +6949,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "CL21B104KCFNNNE"
+		(property "MFPN" "CC0603KRX7R9BB104"
 			(at 91.44 115.57 0)
 			(effects
 				(font
@@ -6751,7 +6958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "100V"
+		(property "Voltage" "50V"
 			(at 95.25 118.1099 0)
 			(effects
 				(font
@@ -7406,94 +7613,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 104.14 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf87b3f6-6e72-46cb-9118-ff2c8d51c136")
-		(property "Reference" "C6"
-			(at 107.95 113.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10nF"
-			(at 107.95 115.5699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 105.1052 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 104.14 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 104.14 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFPN" "CL21B103KBANNNC"
-			(at 104.14 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage" "50V"
-			(at 107.95 118.1099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "1"
-			(uuid "fbe2d018-100e-4330-99d2-83c9f6d8617c")
-		)
-		(pin "2"
-			(uuid "cf56834f-d3aa-454a-b17b-afc7ac8539a7")
-		)
-		(instances
-			(project "lmc_media_blitz"
-				(path "/b87eb037-3127-4116-a225-5eb939725614"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 218.44 43.18 0)
 		(unit 1)
@@ -7839,6 +7958,73 @@
 			(project ""
 				(path "/b87eb037-3127-4116-a225-5eb939725614"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 125.73 25.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e3da547b-3858-4f51-aaf1-e93e354fde06")
+		(property "Reference" "TP4"
+			(at 125.73 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 126.9999 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 125.73 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 125.73 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca796401-2a17-4aab-a7c2-b0f13b54cb70")
+		)
+		(instances
+			(project "lmc_media_blitz"
+				(path "/b87eb037-3127-4116-a225-5eb939725614"
+					(reference "TP4")
 					(unit 1)
 				)
 			)
