@@ -4191,6 +4191,16 @@
 		)
 		(uuid "2b8d12d9-ccfe-4d06-aca4-a20449974f73")
 	)
+	(label "CAPT_X1"
+		(at 93.98 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0cd26eb9-6c7c-4dc9-87f7-c438ce3bb18a")
+	)
 	(label "SPI0_MISO"
 		(at 193.04 80.01 180)
 		(effects
@@ -4211,16 +4221,6 @@
 		)
 		(uuid "0f1cba7c-53f2-4f3a-b62f-1d34af7c6bfe")
 	)
-	(label "CAPT_YH"
-		(at 104.14 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0fbcfabb-43f6-4913-8fb5-4cee527e00fe")
-	)
 	(label "CAPT_YL"
 		(at 195.58 154.94 0)
 		(effects
@@ -4231,6 +4231,16 @@
 		)
 		(uuid "1ce5d92c-0378-4f7b-aa6e-391870d7670a")
 	)
+	(label "CAPT_YH"
+		(at 104.14 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2b4ffafe-ab97-4805-aaf0-302b49fc1aab")
+	)
 	(label "SPI0_MOSI"
 		(at 193.04 82.55 180)
 		(effects
@@ -4240,16 +4250,6 @@
 			(justify right bottom)
 		)
 		(uuid "31684da4-0357-4b21-8298-b1b1da0cea34")
-	)
-	(label "CAPT_X1"
-		(at 104.14 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3a8fa75b-4e89-42b7-a08a-6add1ec5d076")
 	)
 	(label "NFC_IRQ"
 		(at 199.39 87.63 0)
@@ -4281,15 +4281,15 @@
 		)
 		(uuid "5ad16ddd-9771-4341-af58-cb89e7da1d4e")
 	)
-	(label "CAPT_X2"
-		(at 93.98 80.01 0)
+	(label "CAPT_YL"
+		(at 104.14 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "5b97643b-7315-453d-8ccd-ea11856fb16b")
+		(uuid "60097838-113b-4ae8-a032-9045eb76c476")
 	)
 	(label "CAPT_X1"
 		(at 195.58 123.19 0)
@@ -4311,16 +4311,6 @@
 		)
 		(uuid "722bc5e1-dca0-4ec2-b68d-061b6e2f7a6b")
 	)
-	(label "CAPT_YL"
-		(at 104.14 85.09 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "72c8df3e-22f5-4fa9-b24b-08dec8ff2bd1")
-	)
 	(label "SPI0_SCKA"
 		(at 193.04 85.09 180)
 		(effects
@@ -4341,7 +4331,7 @@
 		)
 		(uuid "76b0d949-b47a-4ddc-8905-487494c7590b")
 	)
-	(label "ACMP_I1"
+	(label "ACMP_I4"
 		(at 195.58 144.78 0)
 		(effects
 			(font
@@ -4350,6 +4340,36 @@
 			(justify left bottom)
 		)
 		(uuid "77b3e97c-28ac-404a-9abe-7ed515f988c0")
+	)
+	(label "CAPT_X2"
+		(at 104.14 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "81bc831b-c804-44ae-835a-55075e45e125")
+	)
+	(label "ACMP_I4"
+		(at 104.14 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9b55c311-ab35-45ba-b3ba-20f0f6f4ec40")
+	)
+	(label "CAPT_X0"
+		(at 104.14 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a199c923-2da5-4d5e-853b-5330f32b6ce0")
 	)
 	(label "SPI0_SCKB"
 		(at 193.04 74.93 180)
@@ -4371,16 +4391,6 @@
 		)
 		(uuid "ca4f745c-f136-4311-8f2b-0af8cf512953")
 	)
-	(label "NFC_IRQ"
-		(at 104.14 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cb2342f2-f0aa-48de-a422-0f5b88cb457b")
-	)
 	(label "MCU_CLK"
 		(at 199.39 90.17 0)
 		(effects
@@ -4401,15 +4411,15 @@
 		)
 		(uuid "d39bedf4-9b92-4350-828a-d2f7c21038b6")
 	)
-	(label "ACMP_I1"
-		(at 104.14 102.87 0)
+	(label "NFC_IRQ"
+		(at 104.14 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "dc41ca79-8bc4-4ae0-b401-35bc8e70f6fd")
+		(uuid "dc4c09b1-ab73-4a13-ab6f-abdd22535a96")
 	)
 	(label "CAPT_YH"
 		(at 195.58 140.97 0)
@@ -4420,16 +4430,6 @@
 			(justify left bottom)
 		)
 		(uuid "df07920a-e37b-4583-8a28-6e7f8c52753e")
-	)
-	(label "CAPT_X0"
-		(at 104.14 74.93 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ede5dcec-e7ff-4f5b-9248-b7fae7aace2d")
 	)
 	(symbol
 		(lib_id "power:+3V3")
