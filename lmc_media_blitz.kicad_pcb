@@ -16947,7 +16947,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C30"
-			(at 0 1.68 360)
+			(at 3.3 0.188 360)
 			(layer "B.SilkS")
 			(uuid "155b21d6-f6c9-43f4-b524-97a90458fe60")
 			(effects
@@ -17206,7 +17206,7 @@
 		(uuid "4429bb5f-8474-476e-ab7c-71a4c6ad2ae4")
 		(at 127 53.848)
 		(property "Reference" "U14"
-			(at 0 -3.5 180)
+			(at 0 -3.5 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "0d6e0abb-b41f-4d32-a47d-0000844bcefa")
@@ -17447,7 +17447,7 @@
 		(uuid "5ac980dc-0969-49c7-8a68-04f8f6dbe0d7")
 		(at 165.1 53.848)
 		(property "Reference" "U11"
-			(at 0 -3.5 180)
+			(at 0 -3.5 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "57041843-acec-4f0a-af16-4cacf88a9546")
@@ -17862,7 +17862,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C29"
-			(at 0 1.68 360)
+			(at 3.6 0.188 360)
 			(layer "B.SilkS")
 			(uuid "a73f9b2f-6a98-471f-a44a-91df2c16f718")
 			(effects
@@ -18295,7 +18295,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C27"
-			(at 0 1.68 360)
+			(at 3.2 0.188 360)
 			(layer "B.SilkS")
 			(uuid "eb5d2eb7-0f69-4fec-96bb-8ee1c5e1fe82")
 			(effects
@@ -18556,7 +18556,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C31"
-			(at 0 1.68 360)
+			(at 3.5 0.188 360)
 			(layer "B.SilkS")
 			(uuid "e4707d18-9f7d-406e-81bf-f1d92b0369da")
 			(effects
@@ -18815,7 +18815,7 @@
 		(uuid "d0092585-ab1f-4ea2-b535-bdb029112975")
 		(at 152.4 53.848)
 		(property "Reference" "U12"
-			(at 0 -3.5 180)
+			(at 0 -3.5 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "5db289ae-40b6-4e5c-ba0a-600733135a5c")
@@ -19056,7 +19056,7 @@
 		(uuid "d9a85838-9c4d-403d-a17f-2fcf35e37c63")
 		(at 139.7 53.848)
 		(property "Reference" "U13"
-			(at 0 -3.5 180)
+			(at 0 -3.5 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "14f43811-0ad8-41c5-9db7-f1ebfb028665")
@@ -19297,7 +19297,7 @@
 		(uuid "df2fbfaf-4e1e-4c66-8043-a00655f35b90")
 		(at 177.8 53.848)
 		(property "Reference" "U10"
-			(at 0 -3.5 180)
+			(at 0 -3.5 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "7f936f54-1904-44b6-a5d6-fea0c0f28e75")
@@ -19540,7 +19540,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C28"
-			(at 0 1.68 360)
+			(at 3.4 0.188 360)
 			(layer "B.SilkS")
 			(uuid "13f4c7f7-6d08-4624-806d-531869d84357")
 			(effects
