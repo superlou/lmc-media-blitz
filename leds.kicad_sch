@@ -536,6 +536,14 @@
 			)
 		)
 	)
+	(no_connect
+		(at 201.93 90.17)
+		(uuid "c16ec505-9354-4108-b70a-57dd6ff15007")
+	)
+	(no_connect
+		(at 201.93 82.55)
+		(uuid "f6f3a374-e7a6-41aa-8978-d727bcaa9edc")
+	)
 	(wire
 		(pts
 			(xy 93.98 90.17) (xy 100.33 90.17)

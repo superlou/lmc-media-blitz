@@ -1743,7 +1743,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin passive line
 					(at 2.54 -2.54 180)
 					(length 3.81)
 					(name ""
@@ -1783,7 +1783,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SOT360-1"
+			(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm "
 				(at 0.762 -59.944 0)
 				(effects
 					(font
@@ -1984,7 +1984,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at -30.48 -38.1 0)
 					(length 2.54)
 					(name "VREFP"
@@ -2204,7 +2204,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SOT23-5"
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2895,6 +2895,12 @@
 		(uuid "6bf3a187-f90f-493e-bd97-03c1b1a0e926")
 	)
 	(junction
+		(at 115.57 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f83c207-746c-4946-9380-36ec7fe9e84d")
+	)
+	(junction
 		(at 208.28 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2917,12 +2923,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c9bd6be-2c9f-4d2a-8373-836541976846")
-	)
-	(junction
-		(at 204.47 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "89340382-4ef6-48ef-9624-cb57c2dcd4a7")
 	)
 	(junction
 		(at 80.01 27.94)
@@ -2989,6 +2989,14 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1188b4c-e7fb-47df-8823-b7a58aae86f7")
+	)
+	(no_connect
+		(at 57.15 102.87)
+		(uuid "bc2e76c3-7db8-4139-ac21-68d0eb51db1b")
+	)
+	(no_connect
+		(at 57.15 105.41)
+		(uuid "d6f07bca-59c9-4647-904e-98a6c7e06c3b")
 	)
 	(wire
 		(pts
@@ -3122,16 +3130,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 140.97) (xy 204.47 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "165b5be7-5132-4d4d-b5b6-6f1dd5497317")
-	)
-	(wire
-		(pts
 			(xy 80.01 27.94) (xy 80.01 31.75)
 		)
 		(stroke
@@ -3182,7 +3180,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 77.47) (xy 118.11 77.47)
+			(xy 104.14 77.47) (xy 115.57 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3279,6 +3277,16 @@
 			(type default)
 		)
 		(uuid "3e6c98a9-e5d2-472b-922e-9f3d382ad705")
+	)
+	(wire
+		(pts
+			(xy 115.57 74.93) (xy 115.57 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42978bc2-fe5e-4666-86c1-57b355acd159")
 	)
 	(wire
 		(pts
@@ -3412,6 +3420,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 77.47) (xy 186.69 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "618c26b7-32b1-4a28-8e57-4bd1e27d406f")
+	)
+	(wire
+		(pts
 			(xy 101.6 33.02) (xy 101.6 27.94)
 		)
 		(stroke
@@ -3419,16 +3437,6 @@
 			(type default)
 		)
 		(uuid "61b6cd7b-952b-4980-bb21-de5aab82e293")
-	)
-	(wire
-		(pts
-			(xy 104.14 74.93) (xy 118.11 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6376afd0-a7f6-45c4-b0a1-ff697a00c050")
 	)
 	(wire
 		(pts
@@ -3522,13 +3530,13 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 144.78) (xy 204.47 140.97)
+			(xy 115.57 77.47) (xy 118.11 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "70c90641-5af4-4913-82b3-a866d6adcb32")
+		(uuid "73658e1f-fe66-4a9f-af6b-15d6776dfa52")
 	)
 	(wire
 		(pts
@@ -3742,6 +3750,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 74.93) (xy 115.57 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9621bc63-ee61-4da1-9a92-a1866ba38f53")
+	)
+	(wire
+		(pts
 			(xy 104.14 85.09) (xy 118.11 85.09)
 		)
 		(stroke
@@ -3902,17 +3920,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 144.78) (xy 204.47 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8354dd9-2af6-49d7-8eb5-9ef6606d4c18")
-	)
-	(wire
-		(pts
-			(xy 204.47 140.97) (xy 226.06 140.97)
+			(xy 195.58 140.97) (xy 226.06 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4180,16 +4188,15 @@
 		)
 		(uuid "feb9f16d-ba9a-4fa5-a5a4-d4fff530b8bb")
 	)
-	(text "ADD HEADERLESS PROGRAMMING PORT"
+	(text "ACMP_I4"
 		(exclude_from_sim no)
-		(at 68.326 71.12 0)
+		(at 112.268 74.168 0)
 		(effects
 			(font
 				(size 1.27 1.27)
-				(color 255 0 26 1)
 			)
 		)
-		(uuid "2b8d12d9-ccfe-4d06-aca4-a20449974f73")
+		(uuid "ec0bef2b-b74d-4236-b451-e3bfdf1d1eee")
 	)
 	(label "CAPT_X1"
 		(at 93.98 80.01 0)
@@ -4331,16 +4338,6 @@
 		)
 		(uuid "76b0d949-b47a-4ddc-8905-487494c7590b")
 	)
-	(label "ACMP_I4"
-		(at 195.58 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "77b3e97c-28ac-404a-9abe-7ed515f988c0")
-	)
 	(label "CAPT_X2"
 		(at 104.14 85.09 0)
 		(effects
@@ -4350,16 +4347,6 @@
 			(justify left bottom)
 		)
 		(uuid "81bc831b-c804-44ae-835a-55075e45e125")
-	)
-	(label "ACMP_I4"
-		(at 104.14 74.93 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9b55c311-ab35-45ba-b3ba-20f0f6f4ec40")
 	)
 	(label "CAPT_X0"
 		(at 104.14 80.01 0)
@@ -6750,6 +6737,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 186.69 77.47 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "96314e1d-07d5-4ea9-9cdd-d1512a069f37")
+		(property "Reference" "TP5"
+			(at 188.976 76.454 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 187.9599 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 186.69 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 186.69 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e99fc2a-4567-4be7-9442-6106bea07b0f")
+		)
+		(instances
+			(project "lmc_media_blitz"
+				(path "/b87eb037-3127-4116-a225-5eb939725614"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 208.28 46.99 0)
 		(unit 1)
@@ -8227,7 +8280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Taiyo-Yuden-NR3015T4R7M_C87172.pdf"
+		(property "Datasheet" "~"
 			(at 46.99 27.94 0)
 			(effects
 				(font
