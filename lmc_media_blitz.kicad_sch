@@ -2949,10 +2949,10 @@
 		(uuid "9464cd01-8c06-4256-b0b1-c7848c99b2e9")
 	)
 	(junction
-		(at 33.02 30.48)
+		(at 35.56 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a0414c0d-ce7c-4910-8fa1-5ff7e1d6b7b8")
+		(uuid "aca29219-d6a7-4fc8-b1e3-db4d3ea89893")
 	)
 	(junction
 		(at 104.14 110.49)
@@ -2965,6 +2965,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c4460ee5-4771-41d5-bc0d-faee5e0ae2e7")
+	)
+	(junction
+		(at 31.75 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c915ec87-d500-454b-b828-5035b447fbd7")
 	)
 	(junction
 		(at 208.28 59.69)
@@ -3200,6 +3206,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 30.48) (xy 35.56 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb7015c-9232-4438-a468-b95419bae2c7")
+	)
+	(wire
+		(pts
 			(xy 88.9 25.4) (xy 88.9 27.94)
 		)
 		(stroke
@@ -3370,6 +3386,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 30.48) (xy 40.64 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54853a2f-1f36-4561-b5f0-e0ea307e64a4")
+	)
+	(wire
+		(pts
 			(xy 218.44 50.8) (xy 218.44 59.69)
 		)
 		(stroke
@@ -3410,6 +3436,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 71.12) (xy 195.58 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f9879e6-97f1-4936-b801-84d749b85e63")
+	)
+	(wire
+		(pts
 			(xy 195.58 123.19) (xy 207.01 123.19)
 		)
 		(stroke
@@ -3420,7 +3456,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 77.47) (xy 186.69 77.47)
+			(xy 179.07 77.47) (xy 195.58 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3510,7 +3546,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 30.48) (xy 33.02 29.21)
+			(xy 31.75 30.48) (xy 31.75 29.21)
 		)
 		(stroke
 			(width 0)
@@ -3527,6 +3563,16 @@
 			(type default)
 		)
 		(uuid "6c8ec1a1-b4bc-42f9-814c-0955831fa82c")
+	)
+	(wire
+		(pts
+			(xy 35.56 27.94) (xy 35.56 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d45f3ee-41b6-4a0e-bc05-bf72ddea0b45")
 	)
 	(wire
 		(pts
@@ -3640,7 +3686,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 30.48) (xy 33.02 30.48)
+			(xy 29.21 30.48) (xy 31.75 30.48)
 		)
 		(stroke
 			(width 0)
@@ -3950,7 +3996,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 30.48) (xy 33.02 30.48)
+			(xy 36.83 30.48) (xy 35.56 30.48)
 		)
 		(stroke
 			(width 0)
@@ -4037,16 +4083,6 @@
 			(type default)
 		)
 		(uuid "db3f1f6d-d820-4f9d-b993-d12430f1e45a")
-	)
-	(wire
-		(pts
-			(xy 40.64 30.48) (xy 36.83 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc5a9ebf-bc1a-43cd-b2a3-c9289eada247")
 	)
 	(wire
 		(pts
@@ -6575,7 +6611,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 33.02 29.21 0)
+		(at 31.75 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6584,7 +6620,7 @@
 		(fields_autoplaced yes)
 		(uuid "92ecadcf-c1e5-4019-babb-651f8a8000ba")
 		(property "Reference" "#PWR04"
-			(at 33.02 33.02 0)
+			(at 31.75 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6593,7 +6629,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 33.02 24.13 0)
+			(at 31.75 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6601,7 +6637,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 29.21 0)
+			(at 31.75 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6610,7 +6646,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 29.21 0)
+			(at 31.75 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6619,7 +6655,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 33.02 29.21 0)
+			(at 31.75 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6731,72 +6767,6 @@
 			(project "lmc_media_blitz"
 				(path "/b87eb037-3127-4116-a225-5eb939725614"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 186.69 77.47 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "96314e1d-07d5-4ea9-9cdd-d1512a069f37")
-		(property "Reference" "TP5"
-			(at 188.976 76.454 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint_Small"
-			(at 187.9599 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 186.69 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 186.69 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2e99fc2a-4567-4be7-9442-6106bea07b0f")
-		)
-		(instances
-			(project "lmc_media_blitz"
-				(path "/b87eb037-3127-4116-a225-5eb939725614"
-					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -7247,6 +7217,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 35.56 27.94 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a78d11b8-ec1f-438b-8def-02091389aaf3")
+		(property "Reference" "TP5"
+			(at 37.846 26.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 36.8299 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 35.56 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 35.56 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 35.56 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f314dbd6-31e1-4db9-81f9-9dfee349a27d")
+		)
+		(instances
+			(project "lmc_media_blitz"
+				(path "/b87eb037-3127-4116-a225-5eb939725614"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 44.45 118.11 0)
 		(unit 1)
@@ -7373,6 +7409,72 @@
 			(project "lmc_media_blitz"
 				(path "/b87eb037-3127-4116-a225-5eb939725614"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 195.58 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ab9ae2eb-bfa2-48b2-bdec-ab61145721cd")
+		(property "Reference" "#PWR063"
+			(at 195.58 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 195.58 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 195.58 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2c2a1cc-599c-4adb-9259-e1cbcb56305b")
+		)
+		(instances
+			(project "lmc_media_blitz"
+				(path "/b87eb037-3127-4116-a225-5eb939725614"
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
