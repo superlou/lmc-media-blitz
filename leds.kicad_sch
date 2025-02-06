@@ -847,6 +847,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5378730"
+			(at 110.49 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "12c42aee-2bd8-4462-9bea-539e71a71999")
 		)
@@ -1134,6 +1143,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5378730"
+			(at 171.45 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "22617115-574a-4d32-aa6b-1ef3fdc7004c")
 		)
@@ -1235,6 +1253,15 @@
 			)
 		)
 		(property "$/1,10,100" "0.170,0.068,0.044"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28323"
 			(at 151.13 113.03 0)
 			(effects
 				(font
@@ -1380,6 +1407,15 @@
 			)
 		)
 		(property "MFPN" "SK9822-A"
+			(at 151.13 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5378730"
 			(at 151.13 80.01 0)
 			(effects
 				(font
@@ -1536,6 +1572,15 @@
 			)
 		)
 		(property "MFPN" "SK9822-A"
+			(at 191.77 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5378730"
 			(at 191.77 80.01 0)
 			(effects
 				(font
@@ -1963,6 +2008,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5378730"
+			(at 130.81 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "ce5add78-77b1-4b8c-b7de-cd7a26d3bfad")
 		)
@@ -2269,6 +2323,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28323"
+			(at 110.49 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d339ee0a-1dae-449f-a81b-2c2c5e9dac98")
 		)
@@ -2497,6 +2560,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28323"
+			(at 191.77 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8edfdbbc-61b1-4dc8-a509-d89466a0b075")
 		)
@@ -2586,6 +2658,15 @@
 			)
 		)
 		(property "$/1,10,100" "0.170,0.068,0.044"
+			(at 130.81 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28323"
 			(at 130.81 113.03 0)
 			(effects
 				(font
@@ -2748,6 +2829,15 @@
 			)
 		)
 		(property "$/1,10,100" "0.170,0.068,0.044"
+			(at 171.45 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28323"
 			(at 171.45 113.03 0)
 			(effects
 				(font

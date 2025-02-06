@@ -233,6 +233,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35523981-b7b2-4bba-8512-c4f13083f032")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9c9b4a1e-0127-4e6b-89d3-f0eafbb4b4c7")
 		(sheetname "Root")
@@ -446,7 +459,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R7BB105"
+		(property "MFPN" "CL10A105KB8NNNC"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -478,6 +491,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cf30734c-7156-45c1-8901-031192659efb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15849"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6126df63-7612-4861-b54f-ec1d5a2cc742")
 			(effects
 				(font
 					(size 1 1)
@@ -711,6 +737,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C17414"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91b9f2da-756b-4b7b-aa0d-1a5b4e3d0c44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/32910231-b8a1-4c4b-a880-1be1ec569202")
 		(sheetname "Root")
@@ -920,6 +959,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72956c1f-b5e2-4c2b-bf1a-9a17e2eeb124")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1349,6 +1401,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2717b1a3-33aa-4e85-adda-47e81e7c64ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2056857"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f8d98b6-d6ba-4ca4-bfc8-6fe51bbe37c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFPN" "LPC804M101JDH20"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d42985c1-59d9-4b83-8a3b-f76132d125c6")
 			(effects
 				(font
 					(size 1 1)
@@ -1792,7 +1870,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB103"
+		(property "MFPN" "0603B103K500NT"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1811,6 +1889,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "20e40d32-e84c-46b3-8c9e-293691bacd99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C57112"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72c25487-baa1-4719-9c62-d7d935fd61ed")
 			(effects
 				(font
 					(size 1 1)
@@ -2031,7 +2122,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB103"
+		(property "MFPN" "0603B103K500NT"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2050,6 +2141,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6b07accd-4c41-4450-a6e7-e2de7693b730")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C57112"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14e9b9f5-a682-43ec-a33d-c497e987a2bc")
 			(effects
 				(font
 					(size 1 1)
@@ -2266,6 +2370,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b8d3f59-3a07-47ca-9e24-4990e9cbe86f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2489,6 +2606,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "10718fa3-1d60-4212-ae8b-b64d8afc65ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C17414"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d3aae8b-9199-40ce-86cc-06fa68c6382b")
 			(effects
 				(font
 					(size 1 1)
@@ -2735,6 +2865,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C107522"
+			(at 0 0 -135)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c05f1991-3d6d-4479-8392-ed465e8ec25a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/1dee4cad-e641-4e05-a4e5-3096da974ea0/bbea2bd0-7085-4c18-a0b7-8f5a5810669c")
 		(sheetname "NFC")
@@ -2950,7 +3093,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB103"
+		(property "MFPN" "0603B103K500NT"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2969,6 +3112,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9b20122f-fba4-4dc4-b0b7-c80ab10bb762")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C57112"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8119d000-ebf6-43fd-aa22-9609d4eddd82")
 			(effects
 				(font
 					(size 1 1)
@@ -3202,6 +3358,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C17414"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f042e52c-703b-4e12-868f-956369c99714")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/99bd26cf-f487-4495-9d2e-af8a6fe0a2a2")
 		(sheetname "Root")
@@ -3415,7 +3584,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB103"
+		(property "MFPN" "0603B103K500NT"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3434,6 +3603,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ec194e9e-2bc1-4f4e-b25d-72312b977225")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C57112"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f6ec19b-9e7f-4840-9340-c37f55e96159")
 			(effects
 				(font
 					(size 1 1)
@@ -3693,6 +3875,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C440198"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee9cdf8a-ed2c-4301-9a80-71942b26474c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/eedfe924-1560-4846-8a91-dd695137518d")
 		(sheetname "Root")
@@ -3906,6 +4101,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4696841-7f77-4169-b4f6-c5b78c5474e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/68b86b7e-0180-4cad-bad1-1e15b8f2415c")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
@@ -4070,7 +4278,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R7BB225"
+		(property "MFPN" "CL10A225KO8NNNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4089,6 +4297,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c9e09e3e-1dcb-43a1-92ef-cf6745e9f07f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23630"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53407837-d6a5-46a8-a093-6526f20e5aed")
 			(effects
 				(font
 					(size 1 1)
@@ -4348,6 +4569,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C440198"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4fc08997-c58e-4fce-98ad-05476182e27d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/50760c25-19e7-4b70-821f-8bccfb136944")
 		(sheetname "Root")
@@ -4557,6 +4791,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82b08e2e-8ccf-4761-9f58-8da273100e0c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4774,6 +5021,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50371620-d029-4994-b873-a3b4be3c4f02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1dee4cad-e641-4e05-a4e5-3096da974ea0/53c6dccf-dcc9-4e7e-8d4c-6c5d1cd7b7d9")
 		(sheetname "NFC")
@@ -4987,7 +5247,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB103"
+		(property "MFPN" "0603B103K500NT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5006,6 +5266,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "be9a197b-5e69-467f-b722-bd2f8fb94776")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C57112"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3fd168ac-33cf-4cd7-a741-a27f794b7d98")
 			(effects
 				(font
 					(size 1 1)
@@ -5226,11 +5499,24 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd45af3d-a7fd-433a-bc11-92e346209b46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/73eb1941-719e-4776-ab73-3cc99db89574")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 1.2)
@@ -5341,7 +5627,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R7BB105"
+		(property "MFPN" "CL10A105KB8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5373,6 +5659,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef52c3d1-7863-496d-a726-aa27336abc3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15849"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6dd8e6d6-7b82-442e-8432-d88cbef4d1ff")
 			(effects
 				(font
 					(size 1 1)
@@ -5593,6 +5892,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1c0d0d0-927b-4bf8-9175-a2a0acdf1c23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1dee4cad-e641-4e05-a4e5-3096da974ea0/4e80bd4f-70f6-4105-9f99-abf19875d27d")
 		(sheetname "NFC")
@@ -5809,6 +6121,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fc0b8374-dd41-4ec8-a625-4479c96332b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C134139"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbfda3c9-b770-4962-b8f5-132a7f1a783b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFPN" "TLV77333PDBVR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa8649eb-ee2e-407c-8a97-9db11ea2cab0")
 			(effects
 				(font
 					(size 1 1)
@@ -6102,11 +6440,24 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8774904e-f04d-455e-82d7-bcc63e8c5ae7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/134aed60-953e-4045-bab6-0a0f27eeca8a")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 1.2)
@@ -6217,7 +6568,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB102"
+		(property "MFPN" "CL10B102KB8NNNC"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6236,6 +6587,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cd79fd6d-1607-42b7-8eac-d8fad5eb4d88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1588"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a48bb9db-b496-4256-b3a7-21a9b715a09c")
 			(effects
 				(font
 					(size 1 1)
@@ -6456,6 +6820,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf0a8118-7fa0-4b8b-8ddd-3646fdcdd99d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/178170e6-781d-4b8f-9f02-bf05e5a8bb0d")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
@@ -6620,11 +6997,24 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b51ce56-5dbf-458f-bc85-0c4d9654bb5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e3da547b-3858-4f51-aaf1-e93e354fde06")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 1.2)
@@ -6741,6 +7131,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e5e16cd5-af3e-40a4-b365-3657aeeeb485")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C70591"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0666539a-2ab9-4ed9-b033-8d60f6cdfa11")
 			(effects
 				(font
 					(size 1 1)
@@ -7029,7 +7432,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R7BB225"
+		(property "MFPN" "CL10A225KO8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7048,6 +7451,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "795783db-ca18-41f2-b5f4-974b00c27141")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23630"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a13ec123-829e-4b78-90b2-e9b346d13ea7")
 			(effects
 				(font
 					(size 1 1)
@@ -7268,7 +7684,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB103"
+		(property "MFPN" "0603B103K500NT"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7287,6 +7703,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "78e886dc-f9f9-49ed-a945-504ab65f074a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C57112"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6be9a93-bc28-43bf-8d21-f1df272b4fa7")
 			(effects
 				(font
 					(size 1 1)
@@ -7513,6 +7942,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "261492e6-c99d-495e-ac04-c2bfaca8bcfc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C116461"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05bea7c8-0433-4dcc-a87f-8d562d335294")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFPN" "TPS61222DCK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa4c91f7-e2f3-49d1-a188-838f9830ef01")
 			(effects
 				(font
 					(size 1 1)
@@ -7810,6 +8265,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C17414"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f138ff61-f7cd-4f1b-9633-3b964e0e244e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/72217a9d-ea4e-47a3-98eb-7b0f3ee77a92")
 		(sheetname "Root")
@@ -7963,7 +8431,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 6.096 0 360)
+			(at 6.096 0 0)
 			(layer "F.SilkS")
 			(uuid "2cec03b3-2e65-4d27-a663-beaafddfee74")
 			(effects
@@ -7974,7 +8442,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "a88fa907-9af1-425a-a7a6-da6cbe3dcdb8")
 			(effects
@@ -8023,7 +8491,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R7BB105"
+		(property "MFPN" "CL10A105KB8NNNC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8055,6 +8523,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9016a2ea-f1ad-44d6-b5a2-509a0ee7198b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15849"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbf08f3d-17ba-4c97-bca3-c9d807367f5c")
 			(effects
 				(font
 					(size 1 1)
@@ -8168,7 +8649,7 @@
 			(uuid "be2dceca-5e79-4b73-9bea-0761bf93ae64")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "3f30260e-e776-4c13-b36b-21aea419f490")
 			(effects
@@ -8271,6 +8752,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37497a92-c4f5-4e40-aca6-874c1b84858e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8485,10 +8979,23 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95fbbb1c-82d9-471f-afac-6b61d42dd9f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1dee4cad-e641-4e05-a4e5-3096da974ea0/32dbc303-6981-4e53-9b48-d6e8682cf92f")
 		(sheetname "NFC")
 		(sheetfile "nfc.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 50.5 30.5)
 			(end -0.5 30.5)
@@ -8757,6 +9264,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C1644"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9e32283-f8f1-44f2-9d84-6dfe602777ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1dee4cad-e641-4e05-a4e5-3096da974ea0/df783e68-8712-4013-a73f-f9ba1f9f6cc4")
 		(sheetname "NFC")
@@ -8970,11 +9490,24 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5a93fcd-5f5f-4be9-adec-14a3928ebd4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/a78d11b8-ec1f-438b-8def-02091389aaf3")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 1.2)
@@ -9104,6 +9637,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "015b398c-fbb7-4622-9e21-08a54c72f453")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1729"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1629848b-f018-492d-ac36-afb62564e6bc")
 			(effects
 				(font
 					(size 1 1)
@@ -9324,6 +9870,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6fd163cf-4d40-4a0b-a480-60b543753d67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1dee4cad-e641-4e05-a4e5-3096da974ea0/192d22c9-48e1-4d05-8773-dc2aadfb4164")
 		(sheetname "NFC")
@@ -9537,11 +10096,24 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78ad1bce-9b21-4d96-ab47-bb64a0ee6f88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4e630879-b15e-4593-a4fe-f20c7d8642c0")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 1.2)
@@ -9648,6 +10220,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81f07f1d-575b-4f23-af55-a78e0b252453")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9865,12 +10450,25 @@
 				)
 			)
 		)
-		(property "MFPN" " FTSH-105-01-L-DV-007-K "
+		(property "MFPN" " FTSH-105-01-L-DV-007-K"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1912d223-3fba-4a7d-a32e-45ed9059dfd7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5296739"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0c3e47d-6641-4bc1-b31a-bee32bb2c8dc")
 			(effects
 				(font
 					(size 1 1)
@@ -10549,6 +11147,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C107522"
+			(at 0 0 -45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94829323-7fad-44f6-94cc-25d0bf90d689")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/1dee4cad-e641-4e05-a4e5-3096da974ea0/cf9889f3-7020-471d-962b-3ae65031a900")
 		(sheetname "NFC")
@@ -10704,7 +11315,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C13"
-			(at 6.096 0 360)
+			(at 6.096 0 0)
 			(layer "F.SilkS")
 			(uuid "daeb6576-0146-40c6-8a3b-bf9c5a702e4d")
 			(effects
@@ -10715,7 +11326,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "ba1d5eb2-f451-44ae-aa4d-53c0ec0887c3")
 			(effects
@@ -10764,7 +11375,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB103"
+		(property "MFPN" "0603B103K500NT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10783,6 +11394,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "76eb8a25-7813-4211-8874-c2df164acad9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C57112"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d5c5f9f-0d2d-4774-b200-ba98464bb1be")
 			(effects
 				(font
 					(size 1 1)
@@ -10896,7 +11520,7 @@
 			(uuid "9f598922-d5e6-49b5-9adf-74bf7769cd7b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "778bbe8d-5f6d-42e6-9449-58f95ca70371")
 			(effects
@@ -10999,6 +11623,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1b64c33-3036-489d-ac8c-f5aef93a1621")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11255,6 +11892,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C28323"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d77c903-dff8-444f-9426-2e98770cb754")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/600087d8-bed5-41df-acf0-f67c33432993")
 		(sheetname "Root")
@@ -11468,7 +12118,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R7BB105"
+		(property "MFPN" "CL10A105KB8NNNC"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11500,6 +12150,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a3afa32f-76b9-4c6a-b4c5-004ce21d2a4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15849"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4004e44-89b6-49ef-b27f-06b09229d7d0")
 			(effects
 				(font
 					(size 1 1)
@@ -11759,6 +12422,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C28323"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "88835d54-0107-490b-8cb4-7a762e454c98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4074854f-a711-4d89-8603-aa4fd8c6389b")
 		(sheetname "Root")
@@ -11968,6 +12644,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1bcdb547-6220-4eb0-ae14-6c76ef60379f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12185,7 +12874,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB103"
+		(property "MFPN" "0603B103K500NT"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12204,6 +12893,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8c295bf6-2b6c-4318-93bd-f66a187c3540")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C57112"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1892693-9344-4758-99f3-b47120f9e814")
 			(effects
 				(font
 					(size 1 1)
@@ -12364,7 +13066,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C19"
-			(at 6.35 0 360)
+			(at 6.35 0 0)
 			(layer "F.SilkS")
 			(uuid "77506a6d-a241-4e80-b13c-59514c982fb7")
 			(effects
@@ -12375,7 +13077,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "09078779-5a4e-4d63-a3f8-c9cd06eaac94")
 			(effects
@@ -12424,7 +13126,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R9BB103"
+		(property "MFPN" "0603B103K500NT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12443,6 +13145,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1504ac86-37b7-4dbf-9d0b-cc45b9c6ad2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C57112"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "501d0498-ca43-4187-87af-2c15f7357efe")
 			(effects
 				(font
 					(size 1 1)
@@ -12556,7 +13271,7 @@
 			(uuid "e71aa1b4-3450-4245-81c0-6a53289a1d93")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "5b4f1697-098c-40e0-aa08-570a65ecea82")
 			(effects
@@ -12659,6 +13374,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01a6c80d-d592-41f3-a168-e98ae0c22bea")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12915,6 +13643,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C440198"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5bb60371-3be2-464b-92af-8f5ba5c8d206")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/94620166-b6da-4f3a-b473-21c16d8cbe44")
 		(sheetname "Root")
@@ -13124,6 +13865,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1eacc5b8-2d29-4f2f-a11a-cffe9664efeb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13354,6 +14108,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C17414"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f487af65-4703-479b-abbb-65022a36e50d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9f76e1b2-4763-45f5-abb0-6d975ad7700e")
 		(sheetname "Root")
@@ -13560,6 +14327,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C78284"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38fa3203-7853-4633-8eb7-15dac9b2342a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFPN" "BSS138"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "351e16fe-a652-42b5-b2a9-2c06308eba95")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13831,7 +14624,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R7BB225"
+		(property "MFPN" "CL10A225KO8NNNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13850,6 +14643,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7a39e864-b597-42ad-8b8f-29bab722cc2b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23630"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc157ed3-0554-45b7-a6ef-d7a5a72fc9bd")
 			(effects
 				(font
 					(size 1 1)
@@ -14063,6 +14869,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C3304617"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29aad2c7-388b-4e9b-a623-f4f2af1b0c56")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFPN" "ST25R3918AQW"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0caeeb2e-dc89-459c-9e1d-280c95d4b6df")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14750,6 +15582,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C1644"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31acc79b-bf9a-46c5-b415-47e34ea65ef0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1dee4cad-e641-4e05-a4e5-3096da974ea0/86f32246-ab47-4ae8-ba3c-f60dfab5d691")
 		(sheetname "NFC")
@@ -14956,6 +15801,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C78284"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40c4380b-3479-4900-b7ef-6371f6fb8f24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFPN" "BSS138"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "baa661cf-f72d-48fb-b856-5c793e8e39aa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15167,7 +16038,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C22"
-			(at -6.35 0 360)
+			(at -6.35 0 0)
 			(layer "F.SilkS")
 			(uuid "381ff5d9-755c-4af3-935e-4a1c94401beb")
 			(effects
@@ -15178,7 +16049,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "4a0e72f6-2edd-4eda-b912-f9372c7ea879")
 			(effects
@@ -15227,7 +16098,7 @@
 				)
 			)
 		)
-		(property "MFPN" "CC0603KRX7R7BB225"
+		(property "MFPN" "CL10A225KO8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15246,6 +16117,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "85cace1d-32c3-48b9-9c61-49b46a12858e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23630"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "955b3da8-30a8-4411-82dc-52b9dcee2c66")
 			(effects
 				(font
 					(size 1 1)
@@ -15359,7 +16243,7 @@
 			(uuid "ed7d5c2a-c2af-4b88-9c0b-e8d02bc73d5a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "9f0160bd-da5b-4e8a-a567-b002e1ac4ae9")
 			(effects
@@ -15485,6 +16369,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "74935c46-5d80-4e9f-9bfc-120107d370ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C87172"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9e8fa8a-fc6a-43b7-aac6-ff907127d9a2")
 			(effects
 				(font
 					(size 1 1)
@@ -15718,6 +16615,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C17414"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fdd10869-b914-434d-ab57-4055c653b11f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0ae2cddf-4b0b-4e87-bf8e-b3fadbf1892e")
 		(sheetname "Root")
@@ -15938,10 +16848,24 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8476b6b6-dbf0-4d18-9f50-14acd7a72ea5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/6c258963-7f73-4b13-a9ca-fae2171af6a9")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" smd custom
 			(at 6.5 0.5 180)
 			(size 1 1)
@@ -16976,6 +17900,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part #" "C28323"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a8722ef5-5137-430a-ae07-0e65f032d5f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fa7871a6-f26c-496a-b2cd-c50953503e39/e5695698-53a1-4124-9c5f-6a9f183c6fec")
 		(sheetname "LEDs")
@@ -17201,6 +18139,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7427ab9e-2d93-4581-aa40-23b8de23c81c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C5378730"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "abfa151e-998f-4af5-92f4-aab1afe6a756")
 			(effects
 				(font
 					(size 1 1)
@@ -17450,6 +18402,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part #" "C5378730"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c5e89401-7794-42bb-8d26-bc9f3359145b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/fa7871a6-f26c-496a-b2cd-c50953503e39/9d0cb4be-18b6-4f76-83b6-e7fd63699df1")
 		(sheetname "LEDs")
 		(sheetfile "leds.kicad_sch")
@@ -17679,10 +18645,24 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "013c3668-b530-45e4-94d7-044a58ef10a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bc5e4812-64ef-4eba-8ee4-b6ddab8d586f")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" smd custom
 			(at 6.5 0.5 180)
 			(size 1 1)
@@ -17883,6 +18863,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6c4eae40-44b7-4383-a5ec-df20f13fdea2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C28323"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c2376351-5e8f-4206-abad-d6f571a4b58c")
 			(effects
 				(font
 					(size 1 1)
@@ -18112,10 +19106,24 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "808d02a5-01de-452e-8a3d-ad181c181ad1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/db919fc9-f2b5-4369-ac60-413d655b9dbf")
 		(sheetname "Root")
 		(sheetfile "lmc_media_blitz.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" smd custom
 			(at 6.5 0.5 180)
 			(size 1 1)
@@ -18316,6 +19324,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a8eeaa05-bb62-45db-9417-89706dcc3574")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C28323"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "305af40e-0d1d-4a6b-af63-51fff2115bc5")
 			(effects
 				(font
 					(size 1 1)
@@ -18585,6 +19607,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part #" "C28323"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56186f6e-7c59-4164-9b06-261c1e4e797f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fa7871a6-f26c-496a-b2cd-c50953503e39/cbaccd8d-a792-40c4-86f5-ef47af8a7d0e")
 		(sheetname "LEDs")
@@ -18810,6 +19846,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0a7d10e6-7f92-4a9c-989b-742992ed8fb4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C5378730"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "06c02f4b-9268-4265-97b3-e7fa73b5bb3e")
 			(effects
 				(font
 					(size 1 1)
@@ -19059,6 +20109,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part #" "C5378730"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "17aa0b4d-45c1-46a8-ae78-409d76254d99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/fa7871a6-f26c-496a-b2cd-c50953503e39/71267cbe-dfae-43eb-8c6c-2aaa17b6867b")
 		(sheetname "LEDs")
 		(sheetfile "leds.kicad_sch")
@@ -19292,6 +20356,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3ec19f2b-3665-4b65-a708-b9735bed8734")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C5378730"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e791d92c-3aaf-4bd6-a5ac-8f75fc53be27")
 			(effects
 				(font
 					(size 1 1)
@@ -19561,6 +20639,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f4902010-16dc-4041-a8be-7b0f2493a3fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C28323"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f8d482b-c991-4796-9225-f63500a5da0b")
 			(effects
 				(font
 					(size 1 1)
